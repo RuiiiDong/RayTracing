@@ -317,7 +317,12 @@ if %errorlevel% neq 0 goto :VCEnd</Command>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="..\RayTracing\color.h" />
+    <ClInclude Include="..\RayTracing\interval.h" />
+    <ClInclude Include="..\RayTracing\hittable.h" />
+    <ClInclude Include="..\RayTracing\hittable_list.h" />
     <ClInclude Include="..\RayTracing\ray.h" />
+    <ClInclude Include="..\RayTracing\rtweekend.h" />
+    <ClInclude Include="..\RayTracing\sphere.h" />
     <ClInclude Include="..\RayTracing\vec3.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
