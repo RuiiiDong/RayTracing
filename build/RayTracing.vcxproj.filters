@@ -38,5 +38,8 @@
     <ClInclude Include="..\RayTracing\interval.h">
       <Filter>Source Files</Filter>
     </ClInclude>
+    <ClInclude Include="..\RayTracing\camera.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>
