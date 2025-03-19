@@ -321,6 +321,7 @@ if %errorlevel% neq 0 goto :VCEnd</Command>
     <ClInclude Include="..\RayTracing\interval.h" />
     <ClInclude Include="..\RayTracing\hittable.h" />
     <ClInclude Include="..\RayTracing\hittable_list.h" />
+    <ClInclude Include="..\RayTracing\material.h" />
     <ClInclude Include="..\RayTracing\ray.h" />
     <ClInclude Include="..\RayTracing\rtweekend.h" />
     <ClInclude Include="..\RayTracing\sphere.h" />

@@ -41,5 +41,8 @@
     <ClInclude Include="..\RayTracing\camera.h">
       <Filter>Source Files</Filter>
     </ClInclude>
+    <ClInclude Include="..\RayTracing\material.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>
