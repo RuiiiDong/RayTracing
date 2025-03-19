@@ -36,3 +36,5 @@
 *.vcxproj.user
 *.db
 
+CMakeFiles/
+
